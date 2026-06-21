@@ -118,8 +118,6 @@
 
 <img src="https://raw.githubusercontent.com/datctdev/datctdev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-> 💡 To enable this animation, add a GitHub Action that runs [`Platane/snk`](https://github.com/Platane/snk) on your profile repo — it generates the snake SVG above automatically from your contribution graph.
-
 </div>
 
 <br/>
